@@ -1,0 +1,120 @@
+*{
+        margin: 0;
+}
+#topHeader{
+        border-bottom: 1px solid #ebebeb;
+}
+
+#topHeader a{
+        color: #2c3e50;
+        font-weight: 600;
+        font-size: 0.89rem;
+}
+nav ul li a {
+        font-size: 1.1rem;
+        font-weight: 600;
+}
+
+/*Start of top hero section*/
+
+.top-hero-section{
+        background-color: #3498db;
+        color: #ebebeb;
+}
+
+.top-hero-section a{
+        color: #ebebeb;
+        font-weight: 600;
+}
+
+/*end of top hero section*/
+
+.qualities-img{
+        width: 200px;
+}
+
+.requirements-section{
+        background-color: #004d80;
+        color: #ebebeb;
+}
+
+.home-newsletter{
+        background-color: #004d80;
+        color: #ebebeb;
+}
+
+.home-newsletter .form-control{
+        height: 50px;
+        border-color: transparent;
+        border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .btn{
+        height: 50px;
+        background-color: #243c4f;
+        color: #ebebeb;
+        border-radius: 0 20px 20px 0;
+}
+
+.aboutus-newsletter{
+        background-color: #004d80;
+        color: #ebebeb;
+}
+
+.aboutus-newsletter .form-control{
+        height: 50px;
+        border-color: transparent;
+        border-radius: 20px 0 0 20px;
+}
+
+.breadcrumbs-section{
+        background-color: #e9ecef;
+}
+
+.aboutus-newsletter .btn{
+        height: 50px;
+        background-color: #243c4f;
+        color: #ebebeb;
+        border-radius: 0 20px 20px 0;
+}
+
+.qualities-img{
+        height: 200px;
+}
+
+.clients-section{
+        background-color: #ebebeb;
+      }
+
+/* start of footer */
+.full-footer{
+        background-color: #172633;
+       /* position: absolute;
+        bottom: 0px;
+        width: 100%; */
+}
+
+.top-footer{
+        color: #ebebeb;
+}
+
+.top-footer a{
+        color: #ebebeb;
+        font-weight: 600;
+}
+
+.top-footer h3{
+        color: #ebebeb;
+}
+
+.bottom-footer{
+        background-color: #031b2e;
+        color: #ebebeb;
+}
+
+/* end of footer */
+
+
+.portfolio-section{
+        
+}
